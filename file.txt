@@ -1,1 +1,2 @@
-первый second third 
+ первый second third 
+country USA
